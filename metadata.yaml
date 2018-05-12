@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37164'
     url: http://www.gutenberg.org/2009/agents/37164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20750#Journal-of-the-Proceedings-of-the-Linnean-Society---Vol.-3Zoology
 gutenberg_bookshelf: Animals-Wild
 gutenberg_issued: '2007-03-06'
 gutenberg_type: Text
